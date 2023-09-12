@@ -1,0 +1,19 @@
+Project 1
+
+ Calorie burnt Regression Project
+
+Kaggle:
+
+https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos/code?resource=download
+
+https://www.kaggle.com/code/subhajeetdas/calories-burned-on-exercises-using-lgbm-regressor/notebook#Extra-Trees-Regressor
+
+https://www.kaggle.com/code/sanchitnamdeo/analysis-calories-consumed/notebook
+
+
+Youtube : 
+1. 
+   https://youtu.be/ZD27QTvSbTY?si=WLrEMAXxW2tJXcm8
+
+2. 
+  https://youtu.be/qOOKrPK75ts?si=604r1ljeADuEFvtK
